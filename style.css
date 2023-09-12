@@ -1,0 +1,203 @@
+body{
+    margin:0;
+    padding:0%;
+    font-family:'poppins',sans-serif;
+}
+.main{
+    display: flex;
+}
+.left nav{
+    display: flex;
+    justify-content: space-around;
+}
+.left{
+    margin-top: 77px;
+}.left nav img{
+    width: 20%;
+    float: left;
+    padding-left: -41px;
+    padding-right: 319px;
+}
+.left nav.sign {
+    width:110px;
+    height: 36px;
+    border-style: none;
+    color: white;
+    background-color: black;
+
+}
+.left nav button{
+    border-style: none;
+    color:black;
+    background: transparent;
+    margin-inline:13px;
+    font-size:17px;
+}
+.main .main-image{
+    width:530px;
+
+}
+.main .left .text{
+    margin-left: 63px;
+    margin-top:77px;
+}
+.left  .text  h1{
+    font-size: 43px;
+}
+.left  .text  p1{
+    font-size:22px;
+    margin-top:14px;
+    color:grey;
+}
+.left  .text  .inp{
+display: flex;
+    margin-top: 22px;
+    
+}
+.left .text   input{
+    width: 380px;
+    height:36px;
+    border:1px solid rgb(241,76, 16);
+border-right:none;
+padding:8px;
+
+}
+.left .text  .inp button{
+
+    width:120px;
+    background-color: rgb(241,76, 16) ;
+    border-style: none;
+    color: white;
+    font-size:18px;
+    font-weight: bold;
+}
+.left .para1{
+    color:darkgray;
+}
+.left .para2{
+    color:darkgray;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background: rgb(36, 19, 7);
+    text-align: centre;
+    color: #fff;
+    padding:44px;
+    padding-left: 1px;
+}
+.card .crd img{
+    width:33%;
+    padding-left :43px;
+}
+.rest {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+.rest  img{
+    width: 29%;
+    padding-left: 54px;
+}
+.rest  .txt {
+    margin-top:126px;
+    margin-left:34px;
+}
+.rest .txt h1{
+    font-size:44px;
+}
+.rest .txt img{
+    margin-top:22px;
+}
+.rest .txt p{
+margin-top: 11px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color:white;
+    background: black;
+    padding:44px;
+
+}
+.footer .list{
+    margin-inline:33px;
+}
+.card .crd p{
+    color:#e0cbc1;
+}
+
+.footer .list img{
+    
+    
+
+    margin-top: 11px;
+    margin-left: -204px;
+}
+
+.rest .text .gp1{
+    padding-top: 42px;
+    padding-left: 141px;
+}
+.rest.gp1{
+    margin-bottom: 136px;
+
+}
+.rest .h1{
+    font-size: 41px;
+    padding-left: 150px;
+    margin-top: 133px;
+    color: #282c3f;
+}
+.rest .p1{
+    padding-left:146px;
+    margin-bottom: 10px;
+    color:grey;
+}
+.p1{
+    margin-bottom: 10px;
+    color:grey;
+}
+.footer .list .list1 {
+    display: flex;
+    width:5px;
+    padding-inline:80px;
+}
+
+.footer  .list2{
+padding-left: -6px;
+padding-left: 436px;
+width: 203px;}
+.footer  .list3{
+    
+    padding-left: 99px;
+    width: 194px;
+    margin-top: 13px;
+}
+
+.footer .list{
+    padding-left:80px;
+    padding-inline: 30px;
+}
+.footer .list .head{
+    color: gray;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-bottom: 25px;
+}
+
+
+.left nav .sign{
+    background-color: black;
+    color:#fff;
+    font-weight: bold;
+    width: 100px;
+    height: 39px;
+}
+.left .text .para{
+    color:darkgray;
+}
